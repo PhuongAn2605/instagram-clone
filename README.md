@@ -1,6 +1,6 @@
 # instagram-clone
-**Basic functions in instagram: Upload a post, create a comment with UI support
-**Techniques:
+**Basic functions in instagram:** Upload a post, create a comment with UI support<br />
+**Techniques:**
 - Backend: Java Spring Boot, IDE: Intellij IDEA
 - Frontend: React, IDE: Visual Studio Code
 - Use firebase for authetication and storing image
