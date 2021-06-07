@@ -1,0 +1,20 @@
+.info__container{
+    width: 380px;
+    height: 56px;
+    margin-top: 50px;
+    display: flex;
+}
+.info__image{
+    min-width: 60px;
+    min-height: 60px;
+}
+.info__content{
+    margin-left: 20px;
+}
+.info__username{
+    margin:5px;
+    font-weight: bold;
+}
+.info__description{
+    margin: 5px;
+}
